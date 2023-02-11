@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💻 Welcome to My GitHub Profile!
 
-<!--
-**prvtfly/prvtfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught Full Stack Developer with expertise in a variety of programming languages, including Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, HTML, and CSS.
 
-Here are some ideas to get you started:
+## 🧐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a driven and curious individual who is always looking for new challenges and opportunities to expand my knowledge and skills. I have a passion for programming and have been actively learning and experimenting with different technologies and frameworks in my free time.
+
+## 💡 Skills
+
+- Proficient in Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, HTML, and CSS.
+- Ability to develop and implement efficient and scalable solutions. 🚀
+- Experience in creating and managing projects using Git and GitHub. 🚦
+- Familiarity with a variety of front-end and back-end frameworks and libraries. 🛠️
+- Strong debugging and problem-solving skills. 🔍
+
+## 💬 Contact Me
+
+If you have any questions or would like to collaborate on a project, feel free to reach out to me at my email address or my Discord Name **Fly#0404**.
