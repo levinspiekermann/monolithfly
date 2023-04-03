@@ -17,4 +17,5 @@ I am a driven and curious individual who is always looking for new challenges an
 ## 💬 Contact Me
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me at my email address or my Discord Name **Fly#0404**.
-[![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/860614454915760138)](https://discord.com/users/860614454915760138)
