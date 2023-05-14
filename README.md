@@ -14,6 +14,8 @@ I am a driven and curious individual who is always looking for new challenges an
 - Familiarity with a variety of front-end and back-end frameworks and libraries. 🛠️
 - Strong debugging and problem-solving skills. 🔍
 
+[![Leetcode](https://leetcode.card.workers.dev/prvtfly?theme=dark&font=baloo&extension=null)
+
 ## 💬 Contact Me
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me at my email address or my Discord Name **Fly#0404**.
