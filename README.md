@@ -8,7 +8,7 @@ I am a driven and curious individual who is always looking for new challenges an
 
 ## 💡 Skills
 
-- Proficient in Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, HTML, and CSS.
+- Proficient in Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, Next.js, Nuxt.js, C#, and C++.
 - Ability to develop and implement efficient and scalable solutions. 🚀
 - Experience in creating and managing projects using Git and GitHub. 🚦
 - Familiarity with a variety of front-end and back-end frameworks and libraries. 🛠️
