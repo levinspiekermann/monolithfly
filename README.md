@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7E50C&background=FFFFFF00&width=435&lines=Howdy%2C+welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
-I am a self-taught Full Stack Developer with expertise in a variety of programming languages, including Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, HTML, and CSS.
+I am a self-taught Full Stack Developer with expertise in a variety of programming languages, including Lua, JavaScript, TypeScript, Vue.js, PHP, React.js, Next.js, Nuxt.js, C#, and C++.
 
 ## 🧐 About Me
 
