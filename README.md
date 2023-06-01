@@ -14,7 +14,7 @@ I am a driven and curious individual who is always looking for new challenges an
 - Familiarity with a variety of front-end and back-end frameworks and libraries. 🛠️
 - Strong debugging and problem-solving skills. 🔍
 
-[![Leetcode](https://leetcode.card.workers.dev/prvtfly?theme=dark&font=baloo&extension=null)
+![Leetcode](https://leetcode.card.workers.dev/prvtfly?theme=dark&font=baloo&extension=null)
 
 ## 💬 Contact Me
 
