@@ -78,6 +78,11 @@ I am a driven and curious individual who is always looking for new challenges an
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
+#### What I'm listening to
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=31b2laxeiwdwqva3diyrhhk3l22y&width=1000&count=10)
+
+
 
 ## 💬 Contact Me
 
