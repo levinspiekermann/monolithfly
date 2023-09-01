@@ -14,6 +14,9 @@ I am a driven and curious individual who is always looking for new challenges an
 - Strong debugging and problem-solving skills. 🔍
 
 ## 🔧 Experienced with
+*Reminder: Most of my work is not public!*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prvtfly&layout=compact&theme=dark)
 
 ### 💻 Languages
 ![](https://skillicons.dev/icons?i=ts,lua,js,cs,rust,css,html)
@@ -42,8 +45,6 @@ I am a driven and curious individual who is always looking for new challenges an
 #### What I'm listening to
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=31b2laxeiwdwqva3diyrhhk3l22y&width=1000&count=10)
-
-
 
 ## 💬 Contact Me
 
