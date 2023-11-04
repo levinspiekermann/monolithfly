@@ -42,10 +42,6 @@ I am a driven and curious individual who is always looking for new challenges an
 ### 🗣️ Forums
 ![](https://skillicons.dev/icons?i=stackoverflow)
 
-#### What I'm listening to
-
-![](https://spotify-recently-played-readme.vercel.app/api?user=31b2laxeiwdwqva3diyrhhk3l22y&width=1000&count=10)
-
 ## 💬 Contact Me
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me on Discord: **fly1337**.
