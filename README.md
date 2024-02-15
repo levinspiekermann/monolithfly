@@ -16,7 +16,7 @@ I am a driven and curious individual who is always looking for new challenges an
 ## 🔧 Experienced with
 *Reminder: Most of my work is not public!*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prvtfly&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolithfly&layout=compact&theme=dark)
 
 ### 💻 Languages
 ![](https://skillicons.dev/icons?i=ts,lua,js,cs,rust,css,html)
@@ -44,6 +44,6 @@ I am a driven and curious individual who is always looking for new challenges an
 
 ## 💬 Contact Me
 
-If you have any questions or would like to collaborate on a project, feel free to reach out to me on Discord: **fly1337**.
+If you have any questions or would like to collaborate on a project, feel free to reach out to me on Discord: **monolithfly**.
 ---
 ![Leetcode](https://leetcode.card.workers.dev/prvtfly?theme=dark&font=baloo&extension=null)
