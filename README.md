@@ -1,35 +1,33 @@
 # Hey there! 👋
 
-I'm Fly - a fullstack developer, designer, and student. I'm passionate about development and working on side projects.
-
-*Reminder: Most of my work is not public!*
+I'm Levin - a fullstack developer, designer, and student from Germany 🇩🇪. I'm passionate about development and working on side projects.
 
 ## 🔧 Experienced with
 
 ### 💻 Languages
-![](https://skillicons.dev/icons?i=ts,lua,js,java,go,cs,rust,css,html)
+![](https://skillicons.dev/icons?i=ts,go,lua,java,css,html)
 
 ### 🗃️ Databases
-![](https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,planetscale)
+![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,planetscale)
 
 ### 🔄 CI
 ![](https://skillicons.dev/icons?i=githubactions)
 
 ### 📚 Frameworks, Platforms and Libraries
-![](https://skillicons.dev/icons?i=nextjs,nuxtjs,react,vue,svelte,jquery,redux,sass,tailwind,vite,nestjs,express,elysia,dotnet,bun,discordjs,git,prisma,regex)
+![](https://skillicons.dev/icons?i=nextjs,nuxtjs,react,jquery,redux,sass,tailwind,vite,express,elysia,dotnet,bun,discordjs,git,prisma,regex,maven)
 
 ### 🌐 Hosting
-![](https://skillicons.dev/icons?i=cloudflare,vercel,supabase,aws)
+![](https://skillicons.dev/icons?i=cloudflare,vercel,supabase)
 
 ### 🛠️ IDEs
-![](https://skillicons.dev/icons?i=neovim,vscode)
+![](https://skillicons.dev/icons?i=neovim,vscode,idea)
 
 ### 🎨 Design
 ![](https://skillicons.dev/icons?i=figma)
 
 ## 📈 GitHub Stats
 
-[![Fly's GitHub stats](https://github-readme-stats.vercel.app/api?username=monolithfly&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Fly's GitHub stats](https://github-readme-stats.vercel.app/api?username=levinspiekermann&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with me
 - Twitter: [monolithfly](https://twitter.com/monolithfly)
